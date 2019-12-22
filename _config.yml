@@ -1,0 +1,20 @@
+# Site settings
+author: Rick Lim
+title: 
+header-img: img/home-bg.png
+email: rick.jason.a.lim@gmail.com
+copyright_name: Rick Lim
+description: > # this means to ignore newlines until "baseurl:"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: aRJghhh
+github_username:  nWoKcir33
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
