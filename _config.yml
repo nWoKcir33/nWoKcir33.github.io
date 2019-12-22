@@ -1,11 +1,11 @@
 # Site settings
 author: Rick Lim
-title: 
+title: My Software Engineering Journey
 header-img: img/home-bg.png
 email: rick.jason.a.lim@gmail.com
 copyright_name: Rick Lim
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Crafting the trials and tribulations of learning
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: aRJghhh
 github_username:  nWoKcir33
